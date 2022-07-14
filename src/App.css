@@ -1,3 +1,11 @@
 .task-description {
   text-decoration: line-through;  
 }
+
+.task-description {
+  display: flex;
+}
+
+.button {
+  margin-left: 15px;
+}
